@@ -7,7 +7,7 @@ Group members:
 
 How to run:
 1. Open the project link on GitHub:
-https://github.com/rafaelsutiono/sudoku-solver
+https://github.com/RandomKings/Sudoku_Solver-_Data-Structure.git
 2. Download the .zip file and extract its contents, or clone this repository.
 3. Open the Java file on your IDE (IntelliJ IDEA, Eclipse, Netbeans, etc.).
 4. Setup an appropriate JDK.
